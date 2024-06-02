@@ -1,0 +1,20 @@
+{
+    "1": {
+        "team_name": "Developers",
+        "user_ids": [
+            "1"
+        ]
+    },
+    "2": {
+        "team_name": "Testers",
+        "user_ids": [
+            "2"
+        ]
+    },
+    "3": {
+        "team_name": "Management",
+        "user_ids": [
+            "3"
+        ]
+    }
+}
