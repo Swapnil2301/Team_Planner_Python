@@ -1,5 +1,5 @@
 ```
-# FactWise Assessment Project
+# Team Task Planner 
 
 ## Overview
 
@@ -18,8 +18,8 @@ This project is a RESTful API implemented using Flask for managing users and tea
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/factwise_assessment.git
-cd factwise_assessment
+git clone https://github.com/Swapnil2301/Team_Planner_Python_Factwise
+cd Team_Planner_Python_Factwise
 ```
 
 2. **Create and activate a virtual environment**:
@@ -99,7 +99,3 @@ Common HTTP status codes that might be returned by the API:
 - `400 Bad Request`: The request could not be understood or was missing required parameters.
 - `404 Not Found`: Resource not found.
 - `500 Internal Server Error`: An error occurred on the server.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
